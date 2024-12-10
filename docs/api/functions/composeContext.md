@@ -44,4 +44,4 @@ const context = composeContext({ state, template });
 
 ## Defined in
 
-[packages/core/src/context.ts:24](https://github.com/ai16z/eliza/blob/main/packages/core/src/context.ts#L24)
+[packages/core/src/context.ts:24](https://github.com/skundu42/Eliza-social-test-agent/blob/main/packages/core/src/context.ts#L24)

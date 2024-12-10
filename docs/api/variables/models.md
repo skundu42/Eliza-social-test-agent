@@ -6,4 +6,4 @@
 
 ## Defined in
 
-[packages/core/src/models.ts:4](https://github.com/ai16z/eliza/blob/main/packages/core/src/models.ts#L4)
+[packages/core/src/models.ts:4](https://github.com/skundu42/Eliza-social-test-agent/blob/main/packages/core/src/models.ts#L4)

@@ -18,4 +18,4 @@
 
 ## Defined in
 
-[packages/core/src/relationships.ts:33](https://github.com/ai16z/eliza/blob/main/packages/core/src/relationships.ts#L33)
+[packages/core/src/relationships.ts:33](https://github.com/skundu42/Eliza-social-test-agent/blob/main/packages/core/src/relationships.ts#L33)
