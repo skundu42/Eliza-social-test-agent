@@ -1,0 +1,26 @@
+{
+  "id": "profiles",
+  "title": "GitHub Contributors",
+  "description": "GitHub contributors to our project",
+  "source": "@site/community/profiles.mdx",
+  "sourceDirName": ".",
+  "slug": "/profiles",
+  "permalink": "/eliza/community/profiles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GitHub Contributors",
+    "description": "GitHub contributors to our project"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Creator Fund",
+    "permalink": "/eliza/community/creator-fund"
+  },
+  "next": {
+    "title": "💻-coders 2024-10-27",
+    "permalink": "/eliza/community/Discord/development/coders/chat_2024-10-27"
+  }
+}

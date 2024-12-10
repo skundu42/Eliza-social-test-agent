@@ -1,0 +1,27 @@
+{
+  "id": "packages/packages",
+  "title": "📖 Package Overview",
+  "description": "Core Components",
+  "source": "@site/docs/packages/packages.md",
+  "sourceDirName": "packages",
+  "slug": "/packages/",
+  "permalink": "/eliza/docs/packages/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/packages/packages.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Autonomous Trading",
+    "permalink": "/eliza/docs/advanced/autonomous-trading"
+  },
+  "next": {
+    "title": "Core Package",
+    "permalink": "/eliza/docs/packages/core"
+  }
+}

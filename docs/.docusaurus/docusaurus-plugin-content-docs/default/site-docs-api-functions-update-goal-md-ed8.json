@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/updateGoal",
+  "title": "Function: updateGoal()",
+  "description": "updateGoal(namedParameters): Promise\\",
+  "source": "@site/docs/api/functions/updateGoal.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/updateGoal",
+  "permalink": "/eliza/docs/api/functions/updateGoal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/updateGoal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

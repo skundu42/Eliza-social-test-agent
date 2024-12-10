@@ -1,0 +1,27 @@
+{
+  "id": "advanced/trust-engine",
+  "title": "🤝 Trust Engine",
+  "description": "Overview",
+  "source": "@site/docs/advanced/trust-engine.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/trust-engine",
+  "permalink": "/eliza/docs/advanced/trust-engine",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/advanced/trust-engine.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Infrastructure",
+    "permalink": "/eliza/docs/advanced/infrastructure"
+  },
+  "next": {
+    "title": "Autonomous Trading",
+    "permalink": "/eliza/docs/advanced/autonomous-trading"
+  }
+}

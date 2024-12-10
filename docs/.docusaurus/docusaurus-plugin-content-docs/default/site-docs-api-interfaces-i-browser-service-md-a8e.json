@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/IBrowserService",
+  "title": "Interface: IBrowserService",
+  "description": "Extends",
+  "source": "@site/docs/api/interfaces/IBrowserService.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/IBrowserService",
+  "permalink": "/eliza/docs/api/interfaces/IBrowserService",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/IBrowserService.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

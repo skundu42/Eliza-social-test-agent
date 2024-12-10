@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/formatRelationships",
+  "title": "Function: formatRelationships()",
+  "description": "formatRelationships(namedParameters): Promise\\",
+  "source": "@site/docs/api/functions/formatRelationships.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/formatRelationships",
+  "permalink": "/eliza/docs/api/functions/formatRelationships",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/formatRelationships.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

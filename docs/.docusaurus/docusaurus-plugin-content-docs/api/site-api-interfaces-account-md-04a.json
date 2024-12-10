@@ -1,0 +1,23 @@
+{
+  "id": "interfaces/Account",
+  "title": "Account",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / Account",
+  "source": "@site/api/interfaces/Account.md",
+  "sourceDirName": "interfaces",
+  "slug": "/interfaces/Account",
+  "permalink": "/eliza/api/interfaces/Account",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "@ai16z/eliza v0.1.5-alpha.3",
+    "permalink": "/eliza/api/"
+  },
+  "next": {
+    "title": "Action",
+    "permalink": "/eliza/api/interfaces/Action"
+  }
+}

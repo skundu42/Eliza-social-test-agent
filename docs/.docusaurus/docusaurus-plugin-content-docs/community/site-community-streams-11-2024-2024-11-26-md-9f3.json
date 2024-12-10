@@ -1,0 +1,28 @@
+{
+  "id": "Streams/11-2024/2024-11-26",
+  "title": "a16z AI Agent Dev School #1",
+  "description": "Shaw's Eliza Deep Dive",
+  "source": "@site/community/Streams/11-2024/2024-11-26.md",
+  "sourceDirName": "Streams/11-2024",
+  "slug": "/Streams/11-2024/2024-11-26",
+  "permalink": "/eliza/community/Streams/11-2024/2024-11-26",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "a16z AI Agent Dev School #1",
+    "description": "Shaw's Eliza Deep Dive"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "What Did You Get Done This Week? #2",
+    "permalink": "/eliza/community/Streams/11-2024/2024-11-22"
+  },
+  "next": {
+    "title": "The Delphi Podcast: Crypto x AI Agents",
+    "permalink": "/eliza/community/Streams/11-2024/2024-11-21"
+  }
+}

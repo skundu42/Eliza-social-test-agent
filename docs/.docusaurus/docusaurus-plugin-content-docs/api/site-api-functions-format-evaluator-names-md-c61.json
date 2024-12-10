@@ -1,0 +1,23 @@
+{
+  "id": "functions/formatEvaluatorNames",
+  "title": "formatEvaluatorNames",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / formatEvaluatorNames",
+  "source": "@site/api/functions/formatEvaluatorNames.md",
+  "sourceDirName": "functions",
+  "slug": "/functions/formatEvaluatorNames",
+  "permalink": "/eliza/api/functions/formatEvaluatorNames",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "formatEvaluatorExamples",
+    "permalink": "/eliza/api/functions/formatEvaluatorExamples"
+  },
+  "next": {
+    "title": "formatEvaluators",
+    "permalink": "/eliza/api/functions/formatEvaluators"
+  }
+}

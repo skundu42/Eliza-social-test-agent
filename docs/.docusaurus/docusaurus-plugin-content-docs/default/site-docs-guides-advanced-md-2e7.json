@@ -1,0 +1,27 @@
+{
+  "id": "guides/advanced",
+  "title": "🔧 Advanced Usage Guide",
+  "description": "This guide covers advanced features and capabilities of Eliza, including complex integrations, custom services, and specialized plugins.",
+  "source": "@site/docs/guides/advanced.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/advanced",
+  "permalink": "/eliza/docs/guides/advanced",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/guides/advanced.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/eliza/docs/guides/configuration"
+  },
+  "next": {
+    "title": "Secrets Management",
+    "permalink": "/eliza/docs/guides/secrets-management"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/getProviders",
+  "title": "Function: getProviders()",
+  "description": "getProviders(runtime, message, state?): Promise\\",
+  "source": "@site/docs/api/functions/getProviders.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/getProviders",
+  "permalink": "/eliza/docs/api/functions/getProviders",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/getProviders.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

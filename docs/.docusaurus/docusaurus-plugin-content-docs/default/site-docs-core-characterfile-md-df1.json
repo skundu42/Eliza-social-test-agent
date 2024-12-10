@@ -1,0 +1,27 @@
+{
+  "id": "core/characterfile",
+  "title": "📝 Character Files",
+  "description": "Character files are JSON-formatted configurations that define an AI character's personality, knowledge, and behavior patterns. This guide explains how to create effective character files for use with Eliza agents.",
+  "source": "@site/docs/core/characterfile.md",
+  "sourceDirName": "core",
+  "slug": "/core/characterfile",
+  "permalink": "/eliza/docs/core/characterfile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/core/characterfile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "❓ FAQ",
+    "permalink": "/eliza/docs/faq"
+  },
+  "next": {
+    "title": "Agents",
+    "permalink": "/eliza/docs/core/agents"
+  }
+}

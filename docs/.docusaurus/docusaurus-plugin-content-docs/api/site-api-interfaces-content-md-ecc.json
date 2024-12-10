@@ -1,0 +1,23 @@
+{
+  "id": "interfaces/Content",
+  "title": "Content",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / Content",
+  "source": "@site/api/interfaces/Content.md",
+  "sourceDirName": "interfaces",
+  "slug": "/interfaces/Content",
+  "permalink": "/eliza/api/interfaces/Content",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Actor",
+    "permalink": "/eliza/api/interfaces/Actor"
+  },
+  "next": {
+    "title": "ConversationExample",
+    "permalink": "/eliza/api/interfaces/ConversationExample"
+  }
+}

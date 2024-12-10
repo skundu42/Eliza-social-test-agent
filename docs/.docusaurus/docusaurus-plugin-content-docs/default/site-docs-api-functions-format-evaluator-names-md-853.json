@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/formatEvaluatorNames",
+  "title": "Function: formatEvaluatorNames()",
+  "description": "formatEvaluatorNames(evaluators): string",
+  "source": "@site/docs/api/functions/formatEvaluatorNames.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/formatEvaluatorNames",
+  "permalink": "/eliza/docs/api/functions/formatEvaluatorNames",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/formatEvaluatorNames.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

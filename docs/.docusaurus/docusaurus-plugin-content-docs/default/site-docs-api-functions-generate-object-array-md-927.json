@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/generateObjectArray",
+  "title": "Function: generateObjectArray()",
+  "description": "generateObjectArray(namedParameters): Promise\\",
+  "source": "@site/docs/api/functions/generateObjectArray.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/generateObjectArray",
+  "permalink": "/eliza/docs/api/functions/generateObjectArray",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/generateObjectArray.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

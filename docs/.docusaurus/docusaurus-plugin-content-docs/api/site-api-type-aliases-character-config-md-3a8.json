@@ -1,0 +1,23 @@
+{
+  "id": "type-aliases/CharacterConfig",
+  "title": "CharacterConfig",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / CharacterConfig",
+  "source": "@site/api/type-aliases/CharacterConfig.md",
+  "sourceDirName": "type-aliases",
+  "slug": "/type-aliases/CharacterConfig",
+  "permalink": "/eliza/api/type-aliases/CharacterConfig",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Character",
+    "permalink": "/eliza/api/type-aliases/Character"
+  },
+  "next": {
+    "title": "Client",
+    "permalink": "/eliza/api/type-aliases/Client"
+  }
+}

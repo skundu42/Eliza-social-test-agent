@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/formatPosts",
+  "title": "Function: formatPosts()",
+  "description": "formatPosts(namedParameters): string",
+  "source": "@site/docs/api/functions/formatPosts.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/formatPosts",
+  "permalink": "/eliza/docs/api/functions/formatPosts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/formatPosts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

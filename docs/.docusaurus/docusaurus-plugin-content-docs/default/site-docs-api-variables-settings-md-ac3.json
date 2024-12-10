@@ -1,0 +1,15 @@
+{
+  "id": "api/variables/settings",
+  "title": "Variable: settings",
+  "description": "const settings: ProcessEnv",
+  "source": "@site/docs/api/variables/settings.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/settings",
+  "permalink": "/eliza/docs/api/variables/settings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/variables/settings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

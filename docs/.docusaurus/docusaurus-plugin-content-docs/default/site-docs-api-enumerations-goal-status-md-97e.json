@@ -1,0 +1,15 @@
+{
+  "id": "api/enumerations/GoalStatus",
+  "title": "Enumeration: GoalStatus",
+  "description": "Enumeration Members",
+  "source": "@site/docs/api/enumerations/GoalStatus.md",
+  "sourceDirName": "api/enumerations",
+  "slug": "/api/enumerations/GoalStatus",
+  "permalink": "/eliza/docs/api/enumerations/GoalStatus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/enumerations/GoalStatus.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

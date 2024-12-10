@@ -1,0 +1,23 @@
+{
+  "id": "interfaces/IPdfService",
+  "title": "IPdfService",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / IPdfService",
+  "source": "@site/api/interfaces/IPdfService.md",
+  "sourceDirName": "interfaces",
+  "slug": "/interfaces/IPdfService",
+  "permalink": "/eliza/api/interfaces/IPdfService",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "IMemoryManager",
+    "permalink": "/eliza/api/interfaces/IMemoryManager"
+  },
+  "next": {
+    "title": "ISpeechService",
+    "permalink": "/eliza/api/interfaces/ISpeechService"
+  }
+}

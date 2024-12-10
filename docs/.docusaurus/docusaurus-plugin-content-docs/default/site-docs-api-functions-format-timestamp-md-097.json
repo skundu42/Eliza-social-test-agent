@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/formatTimestamp",
+  "title": "Function: formatTimestamp()",
+  "description": "formatTimestamp(messageDate): string",
+  "source": "@site/docs/api/functions/formatTimestamp.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/formatTimestamp",
+  "permalink": "/eliza/docs/api/functions/formatTimestamp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/formatTimestamp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "functions/generateShouldRespond",
+  "title": "generateShouldRespond",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / generateShouldRespond",
+  "source": "@site/api/functions/generateShouldRespond.md",
+  "sourceDirName": "functions",
+  "slug": "/functions/generateShouldRespond",
+  "permalink": "/eliza/api/functions/generateShouldRespond",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "generateObjectV2",
+    "permalink": "/eliza/api/functions/generateObjectV2"
+  },
+  "next": {
+    "title": "generateText",
+    "permalink": "/eliza/api/functions/generateText"
+  }
+}

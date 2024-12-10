@@ -1,0 +1,15 @@
+{
+  "id": "api/classes/Service",
+  "title": "Class: abstract Service",
+  "description": "Extended by",
+  "source": "@site/docs/api/classes/Service.md",
+  "sourceDirName": "api/classes",
+  "slug": "/api/classes/Service",
+  "permalink": "/eliza/docs/api/classes/Service",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/classes/Service.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

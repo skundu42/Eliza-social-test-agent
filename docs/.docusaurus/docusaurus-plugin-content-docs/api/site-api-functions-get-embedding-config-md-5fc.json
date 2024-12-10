@@ -1,0 +1,23 @@
+{
+  "id": "functions/getEmbeddingConfig",
+  "title": "getEmbeddingConfig",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / getEmbeddingConfig",
+  "source": "@site/api/functions/getEmbeddingConfig.md",
+  "sourceDirName": "functions",
+  "slug": "/functions/getEmbeddingConfig",
+  "permalink": "/eliza/api/functions/getEmbeddingConfig",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "getActorDetails",
+    "permalink": "/eliza/api/functions/getActorDetails"
+  },
+  "next": {
+    "title": "getEmbeddingType",
+    "permalink": "/eliza/api/functions/getEmbeddingType"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/getGoals",
+  "title": "Function: getGoals()",
+  "description": "getGoals(namedParameters): Promise\\",
+  "source": "@site/docs/api/functions/getGoals.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/getGoals",
+  "permalink": "/eliza/docs/api/functions/getGoals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/getGoals.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

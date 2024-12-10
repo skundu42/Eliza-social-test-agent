@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/addHeader",
+  "title": "Function: addHeader()",
+  "description": "addHeader(header, body): string",
+  "source": "@site/docs/api/functions/addHeader.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/addHeader",
+  "permalink": "/eliza/docs/api/functions/addHeader",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/addHeader.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

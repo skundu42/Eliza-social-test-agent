@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/IAgentRuntime",
+  "title": "Interface: IAgentRuntime",
+  "description": "Properties",
+  "source": "@site/docs/api/interfaces/IAgentRuntime.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/IAgentRuntime",
+  "permalink": "/eliza/docs/api/interfaces/IAgentRuntime",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/IAgentRuntime.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

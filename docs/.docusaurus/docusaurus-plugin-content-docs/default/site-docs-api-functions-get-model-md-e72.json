@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/getModel",
+  "title": "Function: getModel()",
+  "description": "getModel(provider, type): string",
+  "source": "@site/docs/api/functions/getModel.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/getModel",
+  "permalink": "/eliza/docs/api/functions/getModel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/getModel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/composeActionExamples",
+  "title": "Function: composeActionExamples()",
+  "description": "composeActionExamples(actionsData, count): string",
+  "source": "@site/docs/api/functions/composeActionExamples.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/composeActionExamples",
+  "permalink": "/eliza/docs/api/functions/composeActionExamples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/composeActionExamples.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "packages/agents",
+  "title": "🤖 Agent Package",
+  "description": "Overview",
+  "source": "@site/docs/packages/agents.md",
+  "sourceDirName": "packages",
+  "slug": "/packages/agents",
+  "permalink": "/eliza/docs/packages/agents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/packages/agents.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

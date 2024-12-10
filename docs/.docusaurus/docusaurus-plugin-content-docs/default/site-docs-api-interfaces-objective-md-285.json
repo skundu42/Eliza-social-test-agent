@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/Objective",
+  "title": "Interface: Objective",
+  "description": "Represents an objective within a goal, detailing what needs to be achieved and whether it has been completed.",
+  "source": "@site/docs/api/interfaces/Objective.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/Objective",
+  "permalink": "/eliza/docs/api/interfaces/Objective",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/Objective.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

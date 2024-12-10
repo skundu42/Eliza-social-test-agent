@@ -1,0 +1,23 @@
+{
+  "id": "interfaces/EvaluationExample",
+  "title": "EvaluationExample",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / EvaluationExample",
+  "source": "@site/api/interfaces/EvaluationExample.md",
+  "sourceDirName": "interfaces",
+  "slug": "/interfaces/EvaluationExample",
+  "permalink": "/eliza/api/interfaces/EvaluationExample",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "ConversationExample",
+    "permalink": "/eliza/api/interfaces/ConversationExample"
+  },
+  "next": {
+    "title": "Evaluator",
+    "permalink": "/eliza/api/interfaces/Evaluator"
+  }
+}

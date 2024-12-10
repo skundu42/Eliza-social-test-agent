@@ -1,0 +1,23 @@
+{
+  "id": "enumerations/Clients",
+  "title": "Clients",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / Clients",
+  "source": "@site/api/enumerations/Clients.md",
+  "sourceDirName": "enumerations",
+  "slug": "/enumerations/Clients",
+  "permalink": "/eliza/api/enumerations/Clients",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Service",
+    "permalink": "/eliza/api/classes/Service"
+  },
+  "next": {
+    "title": "GoalStatus",
+    "permalink": "/eliza/api/enumerations/GoalStatus"
+  }
+}

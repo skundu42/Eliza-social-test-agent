@@ -1,0 +1,15 @@
+{
+  "id": "api/type-aliases/HandlerCallback",
+  "title": "Type Alias: HandlerCallback()",
+  "description": "HandlerCallback: (response, files?) => Promise\\",
+  "source": "@site/docs/api/type-aliases/HandlerCallback.md",
+  "sourceDirName": "api/type-aliases",
+  "slug": "/api/type-aliases/HandlerCallback",
+  "permalink": "/eliza/docs/api/type-aliases/HandlerCallback",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/type-aliases/HandlerCallback.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

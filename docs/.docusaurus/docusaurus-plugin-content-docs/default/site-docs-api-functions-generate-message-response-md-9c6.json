@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/generateMessageResponse",
+  "title": "Function: generateMessageResponse()",
+  "description": "generateMessageResponse(opts): Promise\\",
+  "source": "@site/docs/api/functions/generateMessageResponse.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/generateMessageResponse",
+  "permalink": "/eliza/docs/api/functions/generateMessageResponse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/generateMessageResponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

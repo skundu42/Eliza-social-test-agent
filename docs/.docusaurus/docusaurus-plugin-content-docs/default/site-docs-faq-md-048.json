@@ -1,0 +1,24 @@
+{
+  "id": "faq",
+  "title": "Frequently Asked Questions",
+  "description": "Eliza FAQ",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/eliza/docs/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⭐ Quick Start",
+    "permalink": "/eliza/docs/quickstart"
+  },
+  "next": {
+    "title": "Character Files",
+    "permalink": "/eliza/docs/core/characterfile"
+  }
+}

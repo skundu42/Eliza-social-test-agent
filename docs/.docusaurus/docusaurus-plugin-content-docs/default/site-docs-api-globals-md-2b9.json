@@ -1,0 +1,15 @@
+{
+  "id": "api/globals",
+  "title": "@ai16z/eliza",
+  "description": "Enumerations",
+  "source": "@site/docs/api/globals.md",
+  "sourceDirName": "api",
+  "slug": "/api/globals",
+  "permalink": "/eliza/docs/api/globals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/globals.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

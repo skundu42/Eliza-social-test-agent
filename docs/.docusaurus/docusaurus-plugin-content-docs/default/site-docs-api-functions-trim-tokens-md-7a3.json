@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/trimTokens",
+  "title": "Function: trimTokens()",
+  "description": "trimTokens(context, maxTokens, model): any",
+  "source": "@site/docs/api/functions/trimTokens.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/trimTokens",
+  "permalink": "/eliza/docs/api/functions/trimTokens",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/trimTokens.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

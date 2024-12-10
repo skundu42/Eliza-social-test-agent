@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/formatMessages",
+  "title": "Function: formatMessages()",
+  "description": "formatMessages(namedParameters): string",
+  "source": "@site/docs/api/functions/formatMessages.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/formatMessages",
+  "permalink": "/eliza/docs/api/functions/formatMessages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/formatMessages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/type-aliases/Media",
+  "title": "Type Alias: Media",
+  "description": "Media: object",
+  "source": "@site/docs/api/type-aliases/Media.md",
+  "sourceDirName": "api/type-aliases",
+  "slug": "/api/type-aliases/Media",
+  "permalink": "/eliza/docs/api/type-aliases/Media",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/type-aliases/Media.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

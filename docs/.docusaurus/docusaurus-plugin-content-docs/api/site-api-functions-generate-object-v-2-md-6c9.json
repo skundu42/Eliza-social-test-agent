@@ -1,0 +1,23 @@
+{
+  "id": "functions/generateObjectV2",
+  "title": "generateObjectV2",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / generateObjectV2",
+  "source": "@site/api/functions/generateObjectV2.md",
+  "sourceDirName": "functions",
+  "slug": "/functions/generateObjectV2",
+  "permalink": "/eliza/api/functions/generateObjectV2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "generateObjectArray",
+    "permalink": "/eliza/api/functions/generateObjectArray"
+  },
+  "next": {
+    "title": "generateShouldRespond",
+    "permalink": "/eliza/api/functions/generateShouldRespond"
+  }
+}

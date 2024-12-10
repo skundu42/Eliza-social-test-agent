@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/Relationship",
+  "title": "Interface: Relationship",
+  "description": "Represents a relationship between two users, including their IDs, the status of the relationship, and the room ID in which the relationship is established.",
+  "source": "@site/docs/api/interfaces/Relationship.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/Relationship",
+  "permalink": "/eliza/docs/api/interfaces/Relationship",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/Relationship.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/generateText",
+  "title": "Function: generateText()",
+  "description": "generateText(opts): Promise\\",
+  "source": "@site/docs/api/functions/generateText.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/generateText",
+  "permalink": "/eliza/docs/api/functions/generateText",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/generateText.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

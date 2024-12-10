@@ -1,0 +1,15 @@
+{
+  "id": "api/variables/defaultCharacter",
+  "title": "Variable: defaultCharacter",
+  "description": "const defaultCharacter: Character",
+  "source": "@site/docs/api/variables/defaultCharacter.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/defaultCharacter",
+  "permalink": "/eliza/docs/api/variables/defaultCharacter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/variables/defaultCharacter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

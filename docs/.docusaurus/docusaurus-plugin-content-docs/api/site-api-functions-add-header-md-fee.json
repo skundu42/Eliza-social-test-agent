@@ -1,0 +1,23 @@
+{
+  "id": "functions/addHeader",
+  "title": "addHeader",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / addHeader",
+  "source": "@site/api/functions/addHeader.md",
+  "sourceDirName": "functions",
+  "slug": "/functions/addHeader",
+  "permalink": "/eliza/api/functions/addHeader",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "ServiceType",
+    "permalink": "/eliza/api/enumerations/ServiceType"
+  },
+  "next": {
+    "title": "composeActionExamples",
+    "permalink": "/eliza/api/functions/composeActionExamples"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "packages/plugins",
+  "title": "🧩 Plugins",
+  "description": "Overview",
+  "source": "@site/docs/packages/plugins.md",
+  "sourceDirName": "packages",
+  "slug": "/packages/plugins",
+  "permalink": "/eliza/docs/packages/plugins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/packages/plugins.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Package",
+    "permalink": "/eliza/docs/packages/agent"
+  }
+}

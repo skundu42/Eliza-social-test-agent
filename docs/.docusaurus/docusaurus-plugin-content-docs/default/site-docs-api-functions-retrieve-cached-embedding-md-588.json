@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/retrieveCachedEmbedding",
+  "title": "Function: retrieveCachedEmbedding()",
+  "description": "retrieveCachedEmbedding(runtime, input): Promise\\",
+  "source": "@site/docs/api/functions/retrieveCachedEmbedding.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/retrieveCachedEmbedding",
+  "permalink": "/eliza/docs/api/functions/retrieveCachedEmbedding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/retrieveCachedEmbedding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/Goal",
+  "title": "Interface: Goal",
+  "description": "Represents a goal, which is a higher-level aim composed of one or more objectives. Goals are tracked to measure progress or achievements within the conversation or system.",
+  "source": "@site/docs/api/interfaces/Goal.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/Goal",
+  "permalink": "/eliza/docs/api/interfaces/Goal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/Goal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

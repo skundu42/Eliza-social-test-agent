@@ -1,0 +1,15 @@
+{
+  "id": "api/variables/evaluationTemplate",
+  "title": "Variable: evaluationTemplate",
+  "description": "const evaluationTemplate: string",
+  "source": "@site/docs/api/variables/evaluationTemplate.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/evaluationTemplate",
+  "permalink": "/eliza/docs/api/variables/evaluationTemplate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/variables/evaluationTemplate.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

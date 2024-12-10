@@ -1,0 +1,23 @@
+{
+  "id": "functions/formatActionNames",
+  "title": "formatActionNames",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / formatActionNames",
+  "source": "@site/api/functions/formatActionNames.md",
+  "sourceDirName": "functions",
+  "slug": "/functions/formatActionNames",
+  "permalink": "/eliza/api/functions/formatActionNames",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "findNearestEnvFile",
+    "permalink": "/eliza/api/functions/findNearestEnvFile"
+  },
+  "next": {
+    "title": "formatActions",
+    "permalink": "/eliza/api/functions/formatActions"
+  }
+}

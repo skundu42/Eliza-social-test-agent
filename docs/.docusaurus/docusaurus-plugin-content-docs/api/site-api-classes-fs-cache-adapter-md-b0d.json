@@ -1,0 +1,23 @@
+{
+  "id": "classes/FsCacheAdapter",
+  "title": "FsCacheAdapter",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / FsCacheAdapter",
+  "source": "@site/api/classes/FsCacheAdapter.md",
+  "sourceDirName": "classes",
+  "slug": "/classes/FsCacheAdapter",
+  "permalink": "/eliza/api/classes/FsCacheAdapter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "DbCacheAdapter",
+    "permalink": "/eliza/api/classes/DbCacheAdapter"
+  },
+  "next": {
+    "title": "MemoryCacheAdapter",
+    "permalink": "/eliza/api/classes/MemoryCacheAdapter"
+  }
+}

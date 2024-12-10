@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/formatActors",
+  "title": "Function: formatActors()",
+  "description": "formatActors(actors): string",
+  "source": "@site/docs/api/functions/formatActors.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/formatActors",
+  "permalink": "/eliza/docs/api/functions/formatActors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/formatActors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/variables/embeddingZeroVector",
+  "title": "Variable: embeddingZeroVector",
+  "description": "const embeddingZeroVector: any[]",
+  "source": "@site/docs/api/variables/embeddingZeroVector.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/embeddingZeroVector",
+  "permalink": "/eliza/docs/api/variables/embeddingZeroVector",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/variables/embeddingZeroVector.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

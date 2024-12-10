@@ -1,0 +1,15 @@
+{
+  "id": "api/classes/DatabaseAdapter",
+  "title": "Class: abstract DatabaseAdapter",
+  "description": "An abstract class representing a database adapter for managing various entities",
+  "source": "@site/docs/api/classes/DatabaseAdapter.md",
+  "sourceDirName": "api/classes",
+  "slug": "/api/classes/DatabaseAdapter",
+  "permalink": "/eliza/docs/api/classes/DatabaseAdapter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/classes/DatabaseAdapter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

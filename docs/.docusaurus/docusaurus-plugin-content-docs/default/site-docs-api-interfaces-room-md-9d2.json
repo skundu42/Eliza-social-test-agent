@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/Room",
+  "title": "Interface: Room",
+  "description": "Represents a room or conversation context, including its ID and a list of participants.",
+  "source": "@site/docs/api/interfaces/Room.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/Room",
+  "permalink": "/eliza/docs/api/interfaces/Room",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/Room.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

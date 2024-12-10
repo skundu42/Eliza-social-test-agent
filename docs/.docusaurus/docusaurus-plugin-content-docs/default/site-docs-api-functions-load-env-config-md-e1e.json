@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/loadEnvConfig",
+  "title": "Function: loadEnvConfig()",
+  "description": "loadEnvConfig(): ProcessEnv",
+  "source": "@site/docs/api/functions/loadEnvConfig.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/loadEnvConfig",
+  "permalink": "/eliza/docs/api/functions/loadEnvConfig",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/loadEnvConfig.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

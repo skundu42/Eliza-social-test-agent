@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/Memory",
+  "title": "Interface: Memory",
+  "description": "Represents a memory record, which could be a message or any other piece of information remembered by the system, including its content, associated user IDs, and optionally, its embedding vector for similarity comparisons.",
+  "source": "@site/docs/api/interfaces/Memory.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/Memory",
+  "permalink": "/eliza/docs/api/interfaces/Memory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/Memory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "type-aliases/Character",
+  "title": "Character",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / Character",
+  "source": "@site/api/type-aliases/Character.md",
+  "sourceDirName": "type-aliases",
+  "slug": "/type-aliases/Character",
+  "permalink": "/eliza/api/type-aliases/Character",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "CacheOptions",
+    "permalink": "/eliza/api/type-aliases/CacheOptions"
+  },
+  "next": {
+    "title": "CharacterConfig",
+    "permalink": "/eliza/api/type-aliases/CharacterConfig"
+  }
+}

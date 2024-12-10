@@ -1,0 +1,27 @@
+{
+  "id": "core/evaluators",
+  "title": "📊 Evaluators",
+  "description": "Evaluators are core components that assess and extract information from conversations. They integrate with the AgentRuntime's evaluation system.",
+  "source": "@site/docs/core/evaluators.md",
+  "sourceDirName": "core",
+  "slug": "/core/evaluators",
+  "permalink": "/eliza/docs/core/evaluators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/core/evaluators.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Actions",
+    "permalink": "/eliza/docs/core/actions"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/eliza/docs/guides/configuration"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/enumerations/ServiceType",
+  "title": "Enumeration: ServiceType",
+  "description": "Enumeration Members",
+  "source": "@site/docs/api/enumerations/ServiceType.md",
+  "sourceDirName": "api/enumerations",
+  "slug": "/api/enumerations/ServiceType",
+  "permalink": "/eliza/docs/api/enumerations/ServiceType",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/enumerations/ServiceType.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

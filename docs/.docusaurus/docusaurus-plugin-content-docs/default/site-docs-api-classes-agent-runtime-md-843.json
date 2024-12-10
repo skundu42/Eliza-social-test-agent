@@ -1,0 +1,15 @@
+{
+  "id": "api/classes/AgentRuntime",
+  "title": "Class: AgentRuntime",
+  "description": "Represents the runtime environment for an agent, handling message processing,",
+  "source": "@site/docs/api/classes/AgentRuntime.md",
+  "sourceDirName": "api/classes",
+  "slug": "/api/classes/AgentRuntime",
+  "permalink": "/eliza/docs/api/classes/AgentRuntime",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/classes/AgentRuntime.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

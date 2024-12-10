@@ -1,0 +1,23 @@
+{
+  "id": "interfaces/ICacheAdapter",
+  "title": "ICacheAdapter",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / ICacheAdapter",
+  "source": "@site/api/interfaces/ICacheAdapter.md",
+  "sourceDirName": "interfaces",
+  "slug": "/interfaces/ICacheAdapter",
+  "permalink": "/eliza/api/interfaces/ICacheAdapter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "IBrowserService",
+    "permalink": "/eliza/api/interfaces/IBrowserService"
+  },
+  "next": {
+    "title": "ICacheManager",
+    "permalink": "/eliza/api/interfaces/ICacheManager"
+  }
+}

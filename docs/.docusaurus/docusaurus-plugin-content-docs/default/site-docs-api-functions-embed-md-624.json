@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/embed",
+  "title": "Function: embed()",
+  "description": "embed(runtime, input): Promise\\",
+  "source": "@site/docs/api/functions/embed.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/embed",
+  "permalink": "/eliza/docs/api/functions/embed",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/embed.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "enumerations/ServiceType",
+  "title": "ServiceType",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / ServiceType",
+  "source": "@site/api/enumerations/ServiceType.md",
+  "sourceDirName": "enumerations",
+  "slug": "/enumerations/ServiceType",
+  "permalink": "/eliza/api/enumerations/ServiceType",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "ModelProviderName",
+    "permalink": "/eliza/api/enumerations/ModelProviderName"
+  },
+  "next": {
+    "title": "addHeader",
+    "permalink": "/eliza/api/functions/addHeader"
+  }
+}

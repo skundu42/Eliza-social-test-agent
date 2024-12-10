@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/getRelationships",
+  "title": "Function: getRelationships()",
+  "description": "getRelationships(namedParameters): Promise\\",
+  "source": "@site/docs/api/functions/getRelationships.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/getRelationships",
+  "permalink": "/eliza/docs/api/functions/getRelationships",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/getRelationships.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/enumerations/Clients",
+  "title": "Enumeration: Clients",
+  "description": "Enumeration Members",
+  "source": "@site/docs/api/enumerations/Clients.md",
+  "sourceDirName": "api/enumerations",
+  "slug": "/api/enumerations/Clients",
+  "permalink": "/eliza/docs/api/enumerations/Clients",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/enumerations/Clients.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

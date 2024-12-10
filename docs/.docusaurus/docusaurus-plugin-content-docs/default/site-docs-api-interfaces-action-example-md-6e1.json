@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/ActionExample",
+  "title": "Interface: ActionExample",
+  "description": "Represents an example of content, typically used for demonstrating or testing purposes. Includes user, content, optional action, and optional source.",
+  "source": "@site/docs/api/interfaces/ActionExample.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/ActionExample",
+  "permalink": "/eliza/docs/api/interfaces/ActionExample",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/ActionExample.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

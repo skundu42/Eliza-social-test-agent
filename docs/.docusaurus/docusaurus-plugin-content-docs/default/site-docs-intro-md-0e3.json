@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Introduction to Eliza",
+  "description": "As seen powering @DegenSpartanAI and @MarcAIndreessen",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/eliza/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "⭐ Quick Start",
+    "permalink": "/eliza/docs/quickstart"
+  }
+}

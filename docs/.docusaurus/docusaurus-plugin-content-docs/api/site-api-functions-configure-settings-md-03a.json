@@ -1,0 +1,23 @@
+{
+  "id": "functions/configureSettings",
+  "title": "configureSettings",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / configureSettings",
+  "source": "@site/api/functions/configureSettings.md",
+  "sourceDirName": "functions",
+  "slug": "/functions/configureSettings",
+  "permalink": "/eliza/api/functions/configureSettings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "composeContext",
+    "permalink": "/eliza/api/functions/composeContext"
+  },
+  "next": {
+    "title": "createGoal",
+    "permalink": "/eliza/api/functions/createGoal"
+  }
+}

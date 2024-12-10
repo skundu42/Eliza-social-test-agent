@@ -1,0 +1,15 @@
+{
+  "id": "guides/docker-setup",
+  "title": "[Eliza](https://github.com/ai16z/eliza) Chatbot Docker Setup Guide",
+  "description": "This guide provides instructions for installing and running the Eliza chatbot using either Docker or direct installation on a server.",
+  "source": "@site/docs/guides/docker-setup.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/docker-setup",
+  "permalink": "/eliza/docs/guides/docker-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/guides/docker-setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

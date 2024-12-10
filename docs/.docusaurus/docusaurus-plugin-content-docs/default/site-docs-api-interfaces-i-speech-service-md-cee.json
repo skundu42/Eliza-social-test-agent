@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/ISpeechService",
+  "title": "Interface: ISpeechService",
+  "description": "Extends",
+  "source": "@site/docs/api/interfaces/ISpeechService.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/ISpeechService",
+  "permalink": "/eliza/docs/api/interfaces/ISpeechService",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/ISpeechService.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

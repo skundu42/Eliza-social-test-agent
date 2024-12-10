@@ -1,0 +1,15 @@
+{
+  "id": "api/type-aliases/Model",
+  "title": "Type Alias: Model",
+  "description": "Model: object",
+  "source": "@site/docs/api/type-aliases/Model.md",
+  "sourceDirName": "api/type-aliases",
+  "slug": "/api/type-aliases/Model",
+  "permalink": "/eliza/docs/api/type-aliases/Model",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/type-aliases/Model.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

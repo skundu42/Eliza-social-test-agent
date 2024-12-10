@@ -1,0 +1,24 @@
+{
+  "id": "index",
+  "title": "Daily Summary",
+  "description": "Why?",
+  "source": "@site/community/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/eliza/community/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Daily Summary",
+    "slug": "/",
+    "sidebar_position": 0
+  },
+  "sidebar": "defaultSidebar",
+  "next": {
+    "title": "Creator Fund",
+    "permalink": "/eliza/community/creator-fund"
+  }
+}

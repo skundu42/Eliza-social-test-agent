@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/formatEvaluatorExampleDescriptions",
+  "title": "Function: formatEvaluatorExampleDescriptions()",
+  "description": "formatEvaluatorExampleDescriptions(evaluators): string",
+  "source": "@site/docs/api/functions/formatEvaluatorExampleDescriptions.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/formatEvaluatorExampleDescriptions",
+  "permalink": "/eliza/docs/api/functions/formatEvaluatorExampleDescriptions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/formatEvaluatorExampleDescriptions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

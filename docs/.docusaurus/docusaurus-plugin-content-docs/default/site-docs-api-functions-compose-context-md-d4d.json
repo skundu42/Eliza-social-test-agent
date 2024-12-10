@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/composeContext",
+  "title": "Function: composeContext()",
+  "description": "composeContext(params): string",
+  "source": "@site/docs/api/functions/composeContext.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/composeContext",
+  "permalink": "/eliza/docs/api/functions/composeContext",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/composeContext.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

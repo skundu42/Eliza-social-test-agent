@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/IImageDescriptionService",
+  "title": "Interface: IImageDescriptionService",
+  "description": "Extends",
+  "source": "@site/docs/api/interfaces/IImageDescriptionService.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/IImageDescriptionService",
+  "permalink": "/eliza/docs/api/interfaces/IImageDescriptionService",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/IImageDescriptionService.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

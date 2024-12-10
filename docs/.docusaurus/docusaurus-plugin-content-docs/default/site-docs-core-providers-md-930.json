@@ -1,0 +1,24 @@
+{
+  "id": "core/providers",
+  "title": "🔌 Providers",
+  "description": "Providers are core modules that inject dynamic context and real-time information into agent interactions. They serve as a bridge between the agent and various external systems, enabling access to market data, wallet information, sentiment analysis, and temporal context.",
+  "source": "@site/docs/core/providers.md",
+  "sourceDirName": "core",
+  "slug": "/core/providers",
+  "permalink": "/eliza/docs/core/providers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/core/providers.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agents",
+    "permalink": "/eliza/docs/core/agents"
+  },
+  "next": {
+    "title": "Actions",
+    "permalink": "/eliza/docs/core/actions"
+  }
+}

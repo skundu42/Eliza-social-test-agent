@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/createRelationship",
+  "title": "Function: createRelationship()",
+  "description": "createRelationship(namedParameters): Promise\\",
+  "source": "@site/docs/api/functions/createRelationship.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/createRelationship",
+  "permalink": "/eliza/docs/api/functions/createRelationship",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/createRelationship.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/getEndpoint",
+  "title": "Function: getEndpoint()",
+  "description": "getEndpoint(provider): string",
+  "source": "@site/docs/api/functions/getEndpoint.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/getEndpoint",
+  "permalink": "/eliza/docs/api/functions/getEndpoint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/getEndpoint.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/Content",
+  "title": "Interface: Content",
+  "description": "Represents the content of a message, including its main text (content), any associated action (action), and the source of the content (source), if applicable.",
+  "source": "@site/docs/api/interfaces/Content.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/Content",
+  "permalink": "/eliza/docs/api/interfaces/Content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/Content.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

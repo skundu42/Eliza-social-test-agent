@@ -1,0 +1,27 @@
+{
+  "id": "guides/configuration",
+  "title": "⚙️ Configuration Guide",
+  "description": "This guide covers how to configure Eliza for different use cases and environments. We'll walk through all available configuration options and best practices.",
+  "source": "@site/docs/guides/configuration.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/configuration",
+  "permalink": "/eliza/docs/guides/configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/guides/configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Evaluators",
+    "permalink": "/eliza/docs/core/evaluators"
+  },
+  "next": {
+    "title": "Advanced Usage",
+    "permalink": "/eliza/docs/guides/advanced"
+  }
+}

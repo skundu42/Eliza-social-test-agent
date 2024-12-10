@@ -1,0 +1,27 @@
+{
+  "id": "advanced/autonomous-trading",
+  "title": "📈 Autonomous Trading",
+  "description": "Overview",
+  "source": "@site/docs/advanced/autonomous-trading.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/autonomous-trading",
+  "permalink": "/eliza/docs/advanced/autonomous-trading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/advanced/autonomous-trading.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trust Engine",
+    "permalink": "/eliza/docs/advanced/trust-engine"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/eliza/docs/packages/"
+  }
+}

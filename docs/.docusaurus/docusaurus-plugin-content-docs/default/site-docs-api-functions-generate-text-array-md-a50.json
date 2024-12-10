@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/generateTextArray",
+  "title": "Function: generateTextArray()",
+  "description": "generateTextArray(opts): Promise\\",
+  "source": "@site/docs/api/functions/generateTextArray.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/generateTextArray",
+  "permalink": "/eliza/docs/api/functions/generateTextArray",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/generateTextArray.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "id": "packages/clients",
+  "title": "🔌 Client Packages",
+  "description": "Overview",
+  "source": "@site/docs/packages/clients.md",
+  "sourceDirName": "packages",
+  "slug": "/packages/clients",
+  "permalink": "/eliza/docs/packages/clients",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/packages/clients.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Database Adapters",
+    "permalink": "/eliza/docs/packages/adapters"
+  },
+  "next": {
+    "title": "Agent Package",
+    "permalink": "/eliza/docs/packages/agent"
+  }
+}

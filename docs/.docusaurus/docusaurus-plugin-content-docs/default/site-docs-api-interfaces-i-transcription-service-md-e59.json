@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/ITranscriptionService",
+  "title": "Interface: ITranscriptionService",
+  "description": "Extends",
+  "source": "@site/docs/api/interfaces/ITranscriptionService.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/ITranscriptionService",
+  "permalink": "/eliza/docs/api/interfaces/ITranscriptionService",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/ITranscriptionService.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

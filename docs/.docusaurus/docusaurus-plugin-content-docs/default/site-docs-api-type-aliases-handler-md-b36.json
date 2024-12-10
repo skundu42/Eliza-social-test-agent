@@ -1,0 +1,15 @@
+{
+  "id": "api/type-aliases/Handler",
+  "title": "Type Alias: Handler()",
+  "description": "Handler: (runtime, message, state?, options?, callback?) => Promise\\",
+  "source": "@site/docs/api/type-aliases/Handler.md",
+  "sourceDirName": "api/type-aliases",
+  "slug": "/api/type-aliases/Handler",
+  "permalink": "/eliza/docs/api/type-aliases/Handler",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/type-aliases/Handler.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

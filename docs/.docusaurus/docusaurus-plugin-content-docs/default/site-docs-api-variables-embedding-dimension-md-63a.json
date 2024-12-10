@@ -1,0 +1,15 @@
+{
+  "id": "api/variables/embeddingDimension",
+  "title": "Variable: embeddingDimension",
+  "description": "const embeddingDimension: 1536 = 1536",
+  "source": "@site/docs/api/variables/embeddingDimension.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/embeddingDimension",
+  "permalink": "/eliza/docs/api/variables/embeddingDimension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/variables/embeddingDimension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

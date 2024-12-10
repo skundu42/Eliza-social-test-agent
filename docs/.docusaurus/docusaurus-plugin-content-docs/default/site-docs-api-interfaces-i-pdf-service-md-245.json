@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/IPdfService",
+  "title": "Interface: IPdfService",
+  "description": "Extends",
+  "source": "@site/docs/api/interfaces/IPdfService.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/IPdfService",
+  "permalink": "/eliza/docs/api/interfaces/IPdfService",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/IPdfService.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

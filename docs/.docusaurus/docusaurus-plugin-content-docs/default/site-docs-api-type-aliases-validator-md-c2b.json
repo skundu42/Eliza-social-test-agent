@@ -1,0 +1,15 @@
+{
+  "id": "api/type-aliases/Validator",
+  "title": "Type Alias: Validator()",
+  "description": "Validator: (runtime, message, state?) => Promise\\",
+  "source": "@site/docs/api/type-aliases/Validator.md",
+  "sourceDirName": "api/type-aliases",
+  "slug": "/api/type-aliases/Validator",
+  "permalink": "/eliza/docs/api/type-aliases/Validator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/type-aliases/Validator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

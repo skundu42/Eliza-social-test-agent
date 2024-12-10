@@ -1,0 +1,27 @@
+{
+  "id": "packages/agent",
+  "title": "🤖 Agent Package",
+  "description": "The Agent Package (@eliza/agent) provides the high-level orchestration layer for Eliza, managing agent lifecycles, character loading, client initialization, and runtime coordination.",
+  "source": "@site/docs/packages/agent.md",
+  "sourceDirName": "packages",
+  "slug": "/packages/agent",
+  "permalink": "/eliza/docs/packages/agent",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/packages/agent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Client Packages",
+    "permalink": "/eliza/docs/packages/clients"
+  },
+  "next": {
+    "title": "Plugin System",
+    "permalink": "/eliza/docs/packages/plugins"
+  }
+}

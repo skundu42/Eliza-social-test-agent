@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/createGoal",
+  "title": "Function: createGoal()",
+  "description": "createGoal(namedParameters): Promise\\",
+  "source": "@site/docs/api/functions/createGoal.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/createGoal",
+  "permalink": "/eliza/docs/api/functions/createGoal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/createGoal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

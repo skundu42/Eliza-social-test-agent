@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/generateImage",
+  "title": "Function: generateImage()",
+  "description": "generateImage(data, runtime): Promise\\",
+  "source": "@site/docs/api/functions/generateImage.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/generateImage",
+  "permalink": "/eliza/docs/api/functions/generateImage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/generateImage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

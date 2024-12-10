@@ -1,0 +1,23 @@
+{
+  "id": "type-aliases/Client",
+  "title": "Client",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / Client",
+  "source": "@site/api/type-aliases/Client.md",
+  "sourceDirName": "type-aliases",
+  "slug": "/type-aliases/Client",
+  "permalink": "/eliza/api/type-aliases/Client",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "CharacterConfig",
+    "permalink": "/eliza/api/type-aliases/CharacterConfig"
+  },
+  "next": {
+    "title": "EnvConfig",
+    "permalink": "/eliza/api/type-aliases/EnvConfig"
+  }
+}

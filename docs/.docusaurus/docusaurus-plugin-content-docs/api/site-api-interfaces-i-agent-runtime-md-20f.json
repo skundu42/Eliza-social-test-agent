@@ -1,0 +1,23 @@
+{
+  "id": "interfaces/IAgentRuntime",
+  "title": "IAgentRuntime",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / IAgentRuntime",
+  "source": "@site/api/interfaces/IAgentRuntime.md",
+  "sourceDirName": "interfaces",
+  "slug": "/interfaces/IAgentRuntime",
+  "permalink": "/eliza/api/interfaces/IAgentRuntime",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Goal",
+    "permalink": "/eliza/api/interfaces/Goal"
+  },
+  "next": {
+    "title": "IBrowserService",
+    "permalink": "/eliza/api/interfaces/IBrowserService"
+  }
+}

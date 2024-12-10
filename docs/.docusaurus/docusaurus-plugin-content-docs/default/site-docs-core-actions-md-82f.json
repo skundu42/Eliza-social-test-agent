@@ -1,0 +1,27 @@
+{
+  "id": "core/actions",
+  "title": "⚡ Actions",
+  "description": "Actions are core building blocks in Eliza that define how agents respond to and interact with messages. They allow agents to interact with external systems, modify their behavior, and perform tasks beyond simple message responses.",
+  "source": "@site/docs/core/actions.md",
+  "sourceDirName": "core",
+  "slug": "/core/actions",
+  "permalink": "/eliza/docs/core/actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/core/actions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Providers",
+    "permalink": "/eliza/docs/core/providers"
+  },
+  "next": {
+    "title": "Evaluators",
+    "permalink": "/eliza/docs/core/evaluators"
+  }
+}

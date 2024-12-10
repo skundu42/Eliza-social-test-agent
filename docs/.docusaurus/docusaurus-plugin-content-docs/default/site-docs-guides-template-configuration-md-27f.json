@@ -1,0 +1,15 @@
+{
+  "id": "guides/template-configuration",
+  "title": "🔧 Template and Client Configuration",
+  "description": "This guide covers how to configure custom templates and client behaviors for your AI agent. We'll walk through all available template options and configuration settings.",
+  "source": "@site/docs/guides/template-configuration.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/template-configuration",
+  "permalink": "/eliza/docs/guides/template-configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/guides/template-configuration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

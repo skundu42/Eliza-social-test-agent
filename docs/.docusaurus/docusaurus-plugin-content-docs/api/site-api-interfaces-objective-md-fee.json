@@ -1,0 +1,23 @@
+{
+  "id": "interfaces/Objective",
+  "title": "Objective",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / Objective",
+  "source": "@site/api/interfaces/Objective.md",
+  "sourceDirName": "interfaces",
+  "slug": "/interfaces/Objective",
+  "permalink": "/eliza/api/interfaces/Objective",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "MessageExample",
+    "permalink": "/eliza/api/interfaces/MessageExample"
+  },
+  "next": {
+    "title": "Participant",
+    "permalink": "/eliza/api/interfaces/Participant"
+  }
+}

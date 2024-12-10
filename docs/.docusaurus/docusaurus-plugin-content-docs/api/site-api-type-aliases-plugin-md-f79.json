@@ -1,0 +1,23 @@
+{
+  "id": "type-aliases/Plugin",
+  "title": "Plugin",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / Plugin",
+  "source": "@site/api/type-aliases/Plugin.md",
+  "sourceDirName": "type-aliases",
+  "slug": "/type-aliases/Plugin",
+  "permalink": "/eliza/api/type-aliases/Plugin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Models",
+    "permalink": "/eliza/api/type-aliases/Models"
+  },
+  "next": {
+    "title": "SearchResponse",
+    "permalink": "/eliza/api/type-aliases/SearchResponse"
+  }
+}

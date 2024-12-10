@@ -1,0 +1,27 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart Guide",
+  "description": "Prerequisites",
+  "source": "@site/docs/quickstart.md",
+  "sourceDirName": ".",
+  "slug": "/quickstart",
+  "permalink": "/eliza/docs/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🚀 Introduction",
+    "permalink": "/eliza/docs/intro"
+  },
+  "next": {
+    "title": "❓ FAQ",
+    "permalink": "/eliza/docs/faq"
+  }
+}

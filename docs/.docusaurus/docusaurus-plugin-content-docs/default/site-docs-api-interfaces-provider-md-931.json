@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/Provider",
+  "title": "Interface: Provider",
+  "description": "Represents a provider, which is used to retrieve information or perform actions on behalf of the agent, such as fetching data from an external API or service.",
+  "source": "@site/docs/api/interfaces/Provider.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/Provider",
+  "permalink": "/eliza/docs/api/interfaces/Provider",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/Provider.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

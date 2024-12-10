@@ -1,0 +1,27 @@
+{
+  "id": "advanced/infrastructure",
+  "title": "🏗️ Infrastructure Guide",
+  "description": "Overview",
+  "source": "@site/docs/advanced/infrastructure.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/infrastructure",
+  "permalink": "/eliza/docs/advanced/infrastructure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/advanced/infrastructure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fine-tuning",
+    "permalink": "/eliza/docs/advanced/fine-tuning"
+  },
+  "next": {
+    "title": "Trust Engine",
+    "permalink": "/eliza/docs/advanced/trust-engine"
+  }
+}

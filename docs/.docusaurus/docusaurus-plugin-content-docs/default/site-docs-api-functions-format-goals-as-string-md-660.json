@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/formatGoalsAsString",
+  "title": "Function: formatGoalsAsString()",
+  "description": "formatGoalsAsString(namedParameters): string",
+  "source": "@site/docs/api/functions/formatGoalsAsString.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/formatGoalsAsString",
+  "permalink": "/eliza/docs/api/functions/formatGoalsAsString",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/functions/formatGoalsAsString.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

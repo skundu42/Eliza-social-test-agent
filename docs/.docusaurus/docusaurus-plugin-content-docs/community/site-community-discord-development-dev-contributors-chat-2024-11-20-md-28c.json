@@ -1,0 +1,23 @@
+{
+  "id": "Discord/development/dev-contributors/chat_2024-11-20",
+  "title": "dev-contributors 2024-11-20",
+  "description": "Summary",
+  "source": "@site/community/Discord/development/dev-contributors/chat_2024-11-20.md",
+  "sourceDirName": "Discord/development/dev-contributors",
+  "slug": "/Discord/development/dev-contributors/chat_2024-11-20",
+  "permalink": "/eliza/community/Discord/development/dev-contributors/chat_2024-11-20",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "💻-coders 2024-11-26",
+    "permalink": "/eliza/community/Discord/development/coders/chat_2024-11-26"
+  },
+  "next": {
+    "title": "dev-contributors 2024-11-21",
+    "permalink": "/eliza/community/Discord/development/dev-contributors/chat_2024-11-21"
+  }
+}

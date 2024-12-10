@@ -1,0 +1,23 @@
+{
+  "id": "variables/shouldRespondFooter",
+  "title": "shouldRespondFooter",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / shouldRespondFooter",
+  "source": "@site/api/variables/shouldRespondFooter.md",
+  "sourceDirName": "variables",
+  "slug": "/variables/shouldRespondFooter",
+  "permalink": "/eliza/api/variables/shouldRespondFooter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "settings",
+    "permalink": "/eliza/api/variables/settings"
+  },
+  "next": {
+    "title": "stringArrayFooter",
+    "permalink": "/eliza/api/variables/stringArrayFooter"
+  }
+}

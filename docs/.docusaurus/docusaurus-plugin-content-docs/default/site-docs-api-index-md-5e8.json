@@ -1,0 +1,15 @@
+{
+  "id": "api/index",
+  "title": "Eliza",
+  "description": "For Chinese Version: 中文说明",
+  "source": "@site/docs/api/index.md",
+  "sourceDirName": "api",
+  "slug": "/api/",
+  "permalink": "/eliza/docs/api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

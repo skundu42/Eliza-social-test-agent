@@ -1,0 +1,15 @@
+{
+  "id": "api/enumerations/ModelClass",
+  "title": "Enumeration: ModelClass",
+  "description": "Enumeration Members",
+  "source": "@site/docs/api/enumerations/ModelClass.md",
+  "sourceDirName": "api/enumerations",
+  "slug": "/api/enumerations/ModelClass",
+  "permalink": "/eliza/docs/api/enumerations/ModelClass",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/enumerations/ModelClass.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

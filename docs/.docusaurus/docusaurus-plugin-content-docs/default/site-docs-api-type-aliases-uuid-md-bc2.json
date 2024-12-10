@@ -1,0 +1,15 @@
+{
+  "id": "api/type-aliases/UUID",
+  "title": "Type Alias: UUID",
+  "description": "UUID: \\$\\{string\\}-$\\{string\\}-$\\{string\\}-$\\{string\\}-$\\{string\\}\\",
+  "source": "@site/docs/api/type-aliases/UUID.md",
+  "sourceDirName": "api/type-aliases",
+  "slug": "/api/type-aliases/UUID",
+  "permalink": "/eliza/docs/api/type-aliases/UUID",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/type-aliases/UUID.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

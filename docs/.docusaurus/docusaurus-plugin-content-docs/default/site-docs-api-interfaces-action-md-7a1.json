@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/Action",
+  "title": "Interface: Action",
+  "description": "Represents an action that the agent can perform, including conditions for its use, a description, examples, a handler function, and a validation function.",
+  "source": "@site/docs/api/interfaces/Action.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/Action",
+  "permalink": "/eliza/docs/api/interfaces/Action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/Action.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

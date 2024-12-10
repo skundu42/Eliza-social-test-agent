@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/MessageExample",
+  "title": "Interface: MessageExample",
+  "description": "Represents an example of a message, typically used for demonstrating or testing purposes, including optional content and action.",
+  "source": "@site/docs/api/interfaces/MessageExample.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/MessageExample",
+  "permalink": "/eliza/docs/api/interfaces/MessageExample",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/MessageExample.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

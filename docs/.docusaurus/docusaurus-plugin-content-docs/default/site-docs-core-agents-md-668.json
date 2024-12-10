@@ -1,0 +1,27 @@
+{
+  "id": "core/agents",
+  "title": "🤖 Agents",
+  "description": "Agents are the core components of the Eliza framework that handle autonomous interactions. Each agent runs in a runtime environment and can interact through various clients (Discord, Telegram, etc.) while maintaining consistent behavior and memory.",
+  "source": "@site/docs/core/agents.md",
+  "sourceDirName": "core",
+  "slug": "/core/agents",
+  "permalink": "/eliza/docs/core/agents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/core/agents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Character Files",
+    "permalink": "/eliza/docs/core/characterfile"
+  },
+  "next": {
+    "title": "Providers",
+    "permalink": "/eliza/docs/core/providers"
+  }
+}

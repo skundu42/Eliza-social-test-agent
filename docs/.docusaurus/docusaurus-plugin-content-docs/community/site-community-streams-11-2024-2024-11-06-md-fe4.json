@@ -1,0 +1,28 @@
+{
+  "id": "Streams/11-2024/2024-11-06",
+  "title": "Discord Development Stream",
+  "description": "Complete technical walkthrough of Eliza's architecture, systems, and implementation details",
+  "source": "@site/community/Streams/11-2024/2024-11-06.md",
+  "sourceDirName": "Streams/11-2024",
+  "slug": "/Streams/11-2024/2024-11-06",
+  "permalink": "/eliza/community/Streams/11-2024/2024-11-06",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Discord Development Stream",
+    "description": "Complete technical walkthrough of Eliza's architecture, systems, and implementation details"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Memes, AI Agents, and DAOs",
+    "permalink": "/eliza/community/Streams/11-2024/2024-11-08"
+  },
+  "next": {
+    "title": "Threadguy x Shaw Interview",
+    "permalink": "/eliza/community/Streams/11-2024/2024-11-10"
+  }
+}

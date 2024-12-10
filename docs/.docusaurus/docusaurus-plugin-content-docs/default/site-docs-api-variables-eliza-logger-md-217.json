@@ -1,0 +1,15 @@
+{
+  "id": "api/variables/elizaLogger",
+  "title": "Variable: elizaLogger",
+  "description": "const elizaLogger: ElizaLogger",
+  "source": "@site/docs/api/variables/elizaLogger.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/elizaLogger",
+  "permalink": "/eliza/docs/api/variables/elizaLogger",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/variables/elizaLogger.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

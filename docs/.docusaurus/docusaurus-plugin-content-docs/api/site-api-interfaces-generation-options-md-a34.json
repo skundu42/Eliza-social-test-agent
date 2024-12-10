@@ -1,0 +1,23 @@
+{
+  "id": "interfaces/GenerationOptions",
+  "title": "GenerationOptions",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / GenerationOptions",
+  "source": "@site/api/interfaces/GenerationOptions.md",
+  "sourceDirName": "interfaces",
+  "slug": "/interfaces/GenerationOptions",
+  "permalink": "/eliza/api/interfaces/GenerationOptions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Evaluator",
+    "permalink": "/eliza/api/interfaces/Evaluator"
+  },
+  "next": {
+    "title": "Goal",
+    "permalink": "/eliza/api/interfaces/Goal"
+  }
+}

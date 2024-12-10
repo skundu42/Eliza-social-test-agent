@@ -1,0 +1,2866 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/eliza/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/eliza/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "advanced/autonomous-trading",
+              "path": "/eliza/docs/advanced/autonomous-trading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/fine-tuning",
+              "path": "/eliza/docs/advanced/fine-tuning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/infrastructure",
+              "path": "/eliza/docs/advanced/infrastructure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/trust-engine",
+              "path": "/eliza/docs/advanced/trust-engine",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/classes/AgentRuntime",
+              "path": "/eliza/docs/api/classes/AgentRuntime"
+            },
+            {
+              "id": "api/classes/DatabaseAdapter",
+              "path": "/eliza/docs/api/classes/DatabaseAdapter"
+            },
+            {
+              "id": "api/classes/MemoryManager",
+              "path": "/eliza/docs/api/classes/MemoryManager"
+            },
+            {
+              "id": "api/classes/Service",
+              "path": "/eliza/docs/api/classes/Service"
+            },
+            {
+              "id": "api/enumerations/Clients",
+              "path": "/eliza/docs/api/enumerations/Clients"
+            },
+            {
+              "id": "api/enumerations/GoalStatus",
+              "path": "/eliza/docs/api/enumerations/GoalStatus"
+            },
+            {
+              "id": "api/enumerations/ModelClass",
+              "path": "/eliza/docs/api/enumerations/ModelClass"
+            },
+            {
+              "id": "api/enumerations/ModelProviderName",
+              "path": "/eliza/docs/api/enumerations/ModelProviderName"
+            },
+            {
+              "id": "api/enumerations/ServiceType",
+              "path": "/eliza/docs/api/enumerations/ServiceType"
+            },
+            {
+              "id": "api/functions/addHeader",
+              "path": "/eliza/docs/api/functions/addHeader"
+            },
+            {
+              "id": "api/functions/composeActionExamples",
+              "path": "/eliza/docs/api/functions/composeActionExamples"
+            },
+            {
+              "id": "api/functions/composeContext",
+              "path": "/eliza/docs/api/functions/composeContext"
+            },
+            {
+              "id": "api/functions/createGoal",
+              "path": "/eliza/docs/api/functions/createGoal"
+            },
+            {
+              "id": "api/functions/createRelationship",
+              "path": "/eliza/docs/api/functions/createRelationship"
+            },
+            {
+              "id": "api/functions/embed",
+              "path": "/eliza/docs/api/functions/embed"
+            },
+            {
+              "id": "api/functions/findNearestEnvFile",
+              "path": "/eliza/docs/api/functions/findNearestEnvFile"
+            },
+            {
+              "id": "api/functions/formatActionNames",
+              "path": "/eliza/docs/api/functions/formatActionNames"
+            },
+            {
+              "id": "api/functions/formatActions",
+              "path": "/eliza/docs/api/functions/formatActions"
+            },
+            {
+              "id": "api/functions/formatActors",
+              "path": "/eliza/docs/api/functions/formatActors"
+            },
+            {
+              "id": "api/functions/formatEvaluatorExampleDescriptions",
+              "path": "/eliza/docs/api/functions/formatEvaluatorExampleDescriptions"
+            },
+            {
+              "id": "api/functions/formatEvaluatorExamples",
+              "path": "/eliza/docs/api/functions/formatEvaluatorExamples"
+            },
+            {
+              "id": "api/functions/formatEvaluatorNames",
+              "path": "/eliza/docs/api/functions/formatEvaluatorNames"
+            },
+            {
+              "id": "api/functions/formatEvaluators",
+              "path": "/eliza/docs/api/functions/formatEvaluators"
+            },
+            {
+              "id": "api/functions/formatGoalsAsString",
+              "path": "/eliza/docs/api/functions/formatGoalsAsString"
+            },
+            {
+              "id": "api/functions/formatMessages",
+              "path": "/eliza/docs/api/functions/formatMessages"
+            },
+            {
+              "id": "api/functions/formatPosts",
+              "path": "/eliza/docs/api/functions/formatPosts"
+            },
+            {
+              "id": "api/functions/formatRelationships",
+              "path": "/eliza/docs/api/functions/formatRelationships"
+            },
+            {
+              "id": "api/functions/formatTimestamp",
+              "path": "/eliza/docs/api/functions/formatTimestamp"
+            },
+            {
+              "id": "api/functions/generateCaption",
+              "path": "/eliza/docs/api/functions/generateCaption"
+            },
+            {
+              "id": "api/functions/generateImage",
+              "path": "/eliza/docs/api/functions/generateImage"
+            },
+            {
+              "id": "api/functions/generateMessageResponse",
+              "path": "/eliza/docs/api/functions/generateMessageResponse"
+            },
+            {
+              "id": "api/functions/generateObject",
+              "path": "/eliza/docs/api/functions/generateObject"
+            },
+            {
+              "id": "api/functions/generateObjectArray",
+              "path": "/eliza/docs/api/functions/generateObjectArray"
+            },
+            {
+              "id": "api/functions/generateShouldRespond",
+              "path": "/eliza/docs/api/functions/generateShouldRespond"
+            },
+            {
+              "id": "api/functions/generateText",
+              "path": "/eliza/docs/api/functions/generateText"
+            },
+            {
+              "id": "api/functions/generateTextArray",
+              "path": "/eliza/docs/api/functions/generateTextArray"
+            },
+            {
+              "id": "api/functions/generateTrueOrFalse",
+              "path": "/eliza/docs/api/functions/generateTrueOrFalse"
+            },
+            {
+              "id": "api/functions/getActorDetails",
+              "path": "/eliza/docs/api/functions/getActorDetails"
+            },
+            {
+              "id": "api/functions/getEndpoint",
+              "path": "/eliza/docs/api/functions/getEndpoint"
+            },
+            {
+              "id": "api/functions/getGoals",
+              "path": "/eliza/docs/api/functions/getGoals"
+            },
+            {
+              "id": "api/functions/getModel",
+              "path": "/eliza/docs/api/functions/getModel"
+            },
+            {
+              "id": "api/functions/getProviders",
+              "path": "/eliza/docs/api/functions/getProviders"
+            },
+            {
+              "id": "api/functions/getRelationship",
+              "path": "/eliza/docs/api/functions/getRelationship"
+            },
+            {
+              "id": "api/functions/getRelationships",
+              "path": "/eliza/docs/api/functions/getRelationships"
+            },
+            {
+              "id": "api/functions/loadEnvConfig",
+              "path": "/eliza/docs/api/functions/loadEnvConfig"
+            },
+            {
+              "id": "api/functions/retrieveCachedEmbedding",
+              "path": "/eliza/docs/api/functions/retrieveCachedEmbedding"
+            },
+            {
+              "id": "api/functions/splitChunks",
+              "path": "/eliza/docs/api/functions/splitChunks"
+            },
+            {
+              "id": "api/functions/trimTokens",
+              "path": "/eliza/docs/api/functions/trimTokens"
+            },
+            {
+              "id": "api/functions/updateGoal",
+              "path": "/eliza/docs/api/functions/updateGoal"
+            },
+            {
+              "id": "api/globals",
+              "path": "/eliza/docs/api/globals"
+            },
+            {
+              "id": "api/index",
+              "path": "/eliza/docs/api/"
+            },
+            {
+              "id": "api/interfaces/Account",
+              "path": "/eliza/docs/api/interfaces/Account"
+            },
+            {
+              "id": "api/interfaces/Action",
+              "path": "/eliza/docs/api/interfaces/Action"
+            },
+            {
+              "id": "api/interfaces/ActionExample",
+              "path": "/eliza/docs/api/interfaces/ActionExample"
+            },
+            {
+              "id": "api/interfaces/Actor",
+              "path": "/eliza/docs/api/interfaces/Actor"
+            },
+            {
+              "id": "api/interfaces/Content",
+              "path": "/eliza/docs/api/interfaces/Content"
+            },
+            {
+              "id": "api/interfaces/ConversationExample",
+              "path": "/eliza/docs/api/interfaces/ConversationExample"
+            },
+            {
+              "id": "api/interfaces/EvaluationExample",
+              "path": "/eliza/docs/api/interfaces/EvaluationExample"
+            },
+            {
+              "id": "api/interfaces/Evaluator",
+              "path": "/eliza/docs/api/interfaces/Evaluator"
+            },
+            {
+              "id": "api/interfaces/Goal",
+              "path": "/eliza/docs/api/interfaces/Goal"
+            },
+            {
+              "id": "api/interfaces/IAgentRuntime",
+              "path": "/eliza/docs/api/interfaces/IAgentRuntime"
+            },
+            {
+              "id": "api/interfaces/IBrowserService",
+              "path": "/eliza/docs/api/interfaces/IBrowserService"
+            },
+            {
+              "id": "api/interfaces/IDatabaseAdapter",
+              "path": "/eliza/docs/api/interfaces/IDatabaseAdapter"
+            },
+            {
+              "id": "api/interfaces/IImageDescriptionService",
+              "path": "/eliza/docs/api/interfaces/IImageDescriptionService"
+            },
+            {
+              "id": "api/interfaces/IMemoryManager",
+              "path": "/eliza/docs/api/interfaces/IMemoryManager"
+            },
+            {
+              "id": "api/interfaces/IPdfService",
+              "path": "/eliza/docs/api/interfaces/IPdfService"
+            },
+            {
+              "id": "api/interfaces/ISpeechService",
+              "path": "/eliza/docs/api/interfaces/ISpeechService"
+            },
+            {
+              "id": "api/interfaces/ITextGenerationService",
+              "path": "/eliza/docs/api/interfaces/ITextGenerationService"
+            },
+            {
+              "id": "api/interfaces/ITranscriptionService",
+              "path": "/eliza/docs/api/interfaces/ITranscriptionService"
+            },
+            {
+              "id": "api/interfaces/IVideoService",
+              "path": "/eliza/docs/api/interfaces/IVideoService"
+            },
+            {
+              "id": "api/interfaces/Memory",
+              "path": "/eliza/docs/api/interfaces/Memory"
+            },
+            {
+              "id": "api/interfaces/MessageExample",
+              "path": "/eliza/docs/api/interfaces/MessageExample"
+            },
+            {
+              "id": "api/interfaces/Objective",
+              "path": "/eliza/docs/api/interfaces/Objective"
+            },
+            {
+              "id": "api/interfaces/Participant",
+              "path": "/eliza/docs/api/interfaces/Participant"
+            },
+            {
+              "id": "api/interfaces/Provider",
+              "path": "/eliza/docs/api/interfaces/Provider"
+            },
+            {
+              "id": "api/interfaces/Relationship",
+              "path": "/eliza/docs/api/interfaces/Relationship"
+            },
+            {
+              "id": "api/interfaces/Room",
+              "path": "/eliza/docs/api/interfaces/Room"
+            },
+            {
+              "id": "api/interfaces/State",
+              "path": "/eliza/docs/api/interfaces/State"
+            },
+            {
+              "id": "api/type-aliases/Character",
+              "path": "/eliza/docs/api/type-aliases/Character"
+            },
+            {
+              "id": "api/type-aliases/Client",
+              "path": "/eliza/docs/api/type-aliases/Client"
+            },
+            {
+              "id": "api/type-aliases/Handler",
+              "path": "/eliza/docs/api/type-aliases/Handler"
+            },
+            {
+              "id": "api/type-aliases/HandlerCallback",
+              "path": "/eliza/docs/api/type-aliases/HandlerCallback"
+            },
+            {
+              "id": "api/type-aliases/Media",
+              "path": "/eliza/docs/api/type-aliases/Media"
+            },
+            {
+              "id": "api/type-aliases/Model",
+              "path": "/eliza/docs/api/type-aliases/Model"
+            },
+            {
+              "id": "api/type-aliases/Models",
+              "path": "/eliza/docs/api/type-aliases/Models"
+            },
+            {
+              "id": "api/type-aliases/Plugin",
+              "path": "/eliza/docs/api/type-aliases/Plugin"
+            },
+            {
+              "id": "api/type-aliases/UUID",
+              "path": "/eliza/docs/api/type-aliases/UUID"
+            },
+            {
+              "id": "api/type-aliases/Validator",
+              "path": "/eliza/docs/api/type-aliases/Validator"
+            },
+            {
+              "id": "api/variables/defaultCharacter",
+              "path": "/eliza/docs/api/variables/defaultCharacter"
+            },
+            {
+              "id": "api/variables/elizaLogger",
+              "path": "/eliza/docs/api/variables/elizaLogger"
+            },
+            {
+              "id": "api/variables/embeddingDimension",
+              "path": "/eliza/docs/api/variables/embeddingDimension"
+            },
+            {
+              "id": "api/variables/embeddingZeroVector",
+              "path": "/eliza/docs/api/variables/embeddingZeroVector"
+            },
+            {
+              "id": "api/variables/evaluationTemplate",
+              "path": "/eliza/docs/api/variables/evaluationTemplate"
+            },
+            {
+              "id": "api/variables/settings",
+              "path": "/eliza/docs/api/variables/settings"
+            },
+            {
+              "id": "core/actions",
+              "path": "/eliza/docs/core/actions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core/agents",
+              "path": "/eliza/docs/core/agents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core/characterfile",
+              "path": "/eliza/docs/core/characterfile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core/evaluators",
+              "path": "/eliza/docs/core/evaluators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core/providers",
+              "path": "/eliza/docs/core/providers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/eliza/docs/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/advanced",
+              "path": "/eliza/docs/guides/advanced",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/configuration",
+              "path": "/eliza/docs/guides/configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/docker-setup",
+              "path": "/eliza/docs/guides/docker-setup"
+            },
+            {
+              "id": "guides/local-development",
+              "path": "/eliza/docs/guides/local-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/secrets-management",
+              "path": "/eliza/docs/guides/secrets-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/template-configuration",
+              "path": "/eliza/docs/guides/template-configuration"
+            },
+            {
+              "id": "intro",
+              "path": "/eliza/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "packages/adapters",
+              "path": "/eliza/docs/packages/adapters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "packages/agent",
+              "path": "/eliza/docs/packages/agent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "packages/agents",
+              "path": "/eliza/docs/packages/agents"
+            },
+            {
+              "id": "packages/clients",
+              "path": "/eliza/docs/packages/clients",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "packages/core",
+              "path": "/eliza/docs/packages/core",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "packages/database-adapters",
+              "path": "/eliza/docs/packages/database-adapters"
+            },
+            {
+              "id": "packages/packages",
+              "path": "/eliza/docs/packages/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "packages/plugins",
+              "path": "/eliza/docs/packages/plugins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quickstart",
+              "path": "/eliza/docs/quickstart",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/eliza/docs/intro",
+                "label": "🚀 Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "community": {
+      "path": "/eliza/community",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/eliza/community",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "creator-fund",
+              "path": "/eliza/community/creator-fund",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-10-27",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-10-27",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-10-28",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-10-28",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-10-29",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-10-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-10-30",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-10-30",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-10-31",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-10-31",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-01",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-01",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-02",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-02",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-03",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-03",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-04",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-04",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-05",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-05",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-06",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-06",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-07",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-07",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-08",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-09",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-09",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-10",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-11",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-12",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-13",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-13",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-14",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-14",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-15",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-16",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-17",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-18",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-19",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-20",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-21",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-22",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-23",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-24",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-25",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/coders/chat_2024-11-26",
+              "path": "/eliza/community/Discord/development/coders/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-contributors/chat_2024-11-20",
+              "path": "/eliza/community/Discord/development/dev-contributors/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-contributors/chat_2024-11-21",
+              "path": "/eliza/community/Discord/development/dev-contributors/chat_2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-contributors/chat_2024-11-22",
+              "path": "/eliza/community/Discord/development/dev-contributors/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-contributors/chat_2024-11-23",
+              "path": "/eliza/community/Discord/development/dev-contributors/chat_2024-11-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-contributors/chat_2024-11-24",
+              "path": "/eliza/community/Discord/development/dev-contributors/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-contributors/chat_2024-11-25",
+              "path": "/eliza/community/Discord/development/dev-contributors/chat_2024-11-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-contributors/chat_2024-11-26",
+              "path": "/eliza/community/Discord/development/dev-contributors/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-11",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-12",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-15",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-16",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-17",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-18",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-19",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-20",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-22",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-24",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/development/dev-vc/chat_2024-11-26",
+              "path": "/eliza/community/Discord/development/dev-vc/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/degenspartanai/chat_2024-11-18",
+              "path": "/eliza/community/Discord/the_arena/degenspartanai/chat_2024-11-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/degenspartanai/chat_2024-11-19",
+              "path": "/eliza/community/Discord/the_arena/degenspartanai/chat_2024-11-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/degenspartanai/chat_2024-11-20",
+              "path": "/eliza/community/Discord/the_arena/degenspartanai/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/degenspartanai/chat_2024-11-21",
+              "path": "/eliza/community/Discord/the_arena/degenspartanai/chat_2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/degenspartanai/chat_2024-11-22",
+              "path": "/eliza/community/Discord/the_arena/degenspartanai/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/degenspartanai/chat_2024-11-23",
+              "path": "/eliza/community/Discord/the_arena/degenspartanai/chat_2024-11-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/degenspartanai/chat_2024-11-24",
+              "path": "/eliza/community/Discord/the_arena/degenspartanai/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/degenspartanai/chat_2024-11-25",
+              "path": "/eliza/community/Discord/the_arena/degenspartanai/chat_2024-11-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/degenspartanai/chat_2024-11-26",
+              "path": "/eliza/community/Discord/the_arena/degenspartanai/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-20",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-21",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-22",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-23",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-24",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-25",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-26",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-27",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-27",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-28",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-28",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-29",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-06-30",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-06-30",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-01",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-01",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-02",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-02",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-03",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-03",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-04",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-04",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-05",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-05",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-06",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-06",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-07",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-07",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-08",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-09",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-09",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-10",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-11",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-12",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-13",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-13",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-14",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-14",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-15",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-16",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-17",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-18",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-19",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-20",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-21",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-22",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-23",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-24",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-25",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-26",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-29",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-07-30",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-07-30",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-08-07",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-08-07",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-08-12",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-08-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-08-15",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-08-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-08-17",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-08-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-08",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-09",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-09",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-10",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-11",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-12",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-13",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-13",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-17",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-18",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-23",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-09-27",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-09-27",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-03",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-03",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-04",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-04",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-05",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-05",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-16",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-17",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-22",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-23",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-24",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-25",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-26",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-27",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-27",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-28",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-28",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-29",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-30",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-30",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-10-31",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-10-31",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-01",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-01",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-02",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-02",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-03",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-03",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-04",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-04",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-05",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-05",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-06",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-06",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-07",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-07",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-08",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-09",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-09",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-10",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-11",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-12",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-13",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-13",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-14",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-14",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-15",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-16",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-17",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-18",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-19",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-20",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-21",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-22",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-23",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-24",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-25",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/discussion/chat_2024-11-26",
+              "path": "/eliza/community/Discord/the_arena/discussion/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-10-29",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-10-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-10-30",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-10-30",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-10-31",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-10-31",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-01",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-01",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-02",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-02",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-03",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-03",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-04",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-04",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-05",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-05",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-06",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-06",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-07",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-07",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-08",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-09",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-09",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-10",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-11",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-12",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-13",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-13",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-14",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-14",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-15",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-16",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-17",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-18",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-19",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-20",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-21",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-22",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-23",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-24",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-25",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/ideas-feedback-rants/chat_2024-11-26",
+              "path": "/eliza/community/Discord/the_arena/ideas-feedback-rants/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-10-26",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-10-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-10-27",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-10-27",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-10-28",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-10-28",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-10-29",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-10-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-10-30",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-10-30",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-10-31",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-10-31",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-01",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-01",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-02",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-02",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-03",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-03",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-04",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-04",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-05",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-05",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-06",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-06",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-07",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-07",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-08",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-09",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-09",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-10",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-11",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-12",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-13",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-13",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-14",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-14",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-15",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-16",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-17",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-18",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-19",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-20",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-21",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-22",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-23",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-24",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-25",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/memes-and-marketing/chat_2024-11-26",
+              "path": "/eliza/community/Discord/the_arena/memes-and-marketing/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-10-26",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-10-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-10-27",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-10-27",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-10-28",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-10-28",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-10-29",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-10-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-10-30",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-10-30",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-10-31",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-10-31",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-01",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-01",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-02",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-02",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-03",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-03",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-04",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-04",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-05",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-05",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-06",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-06",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-07",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-07",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-08",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-09",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-09",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-10",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-11",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-12",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-13",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-13",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-14",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-14",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-15",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-16",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-17",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-18",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-19",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-20",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-21",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-22",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-23",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-24",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-25",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/price-talk-trenches/chat_2024-11-26",
+              "path": "/eliza/community/Discord/the_arena/price-talk-trenches/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-22",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-23",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-24",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-25",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-26",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-27",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-27",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-28",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-28",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-29",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-30",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-30",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-10-31",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-10-31",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-01",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-01",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-02",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-02",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-03",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-03",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-04",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-04",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-05",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-05",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-06",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-06",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-07",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-07",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-08",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-09",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-09",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-10",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-11",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-12",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-13",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-13",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-14",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-14",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-15",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-16",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-17",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-18",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-19",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-20",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-21",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-22",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-23",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-24",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-25",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/the-arena/chat_2024-11-26",
+              "path": "/eliza/community/Discord/the_arena/the-arena/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-10-28",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-10-28",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-10-29",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-10-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-10-30",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-10-30",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-10-31",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-10-31",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-01",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-01",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-02",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-02",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-03",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-03",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-04",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-04",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-05",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-05",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-06",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-06",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-07",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-07",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-08",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-09",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-09",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-10",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-11",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-11",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-12",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-12",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-13",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-13",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-14",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-14",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-15",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-16",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-16",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-17",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-17",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-18",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-18",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-19",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-19",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-20",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-20",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-21",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-22",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-23",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-23",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-24",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-25",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Discord/the_arena/twitter/chat_2024-11-26",
+              "path": "/eliza/community/Discord/the_arena/twitter/chat_2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/eliza/community/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "profiles",
+              "path": "/eliza/community/profiles",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/10-2024/2024-10-25",
+              "path": "/eliza/community/Streams/10-2024/2024-10-25",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/10-2024/2024-10-27",
+              "path": "/eliza/community/Streams/10-2024/2024-10-27",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/10-2024/2024-10-29",
+              "path": "/eliza/community/Streams/10-2024/2024-10-29",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-06",
+              "path": "/eliza/community/Streams/11-2024/2024-11-06",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-08",
+              "path": "/eliza/community/Streams/11-2024/2024-11-08",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-10",
+              "path": "/eliza/community/Streams/11-2024/2024-11-10",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-15",
+              "path": "/eliza/community/Streams/11-2024/2024-11-15",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-21",
+              "path": "/eliza/community/Streams/11-2024/2024-11-21",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-22",
+              "path": "/eliza/community/Streams/11-2024/2024-11-22",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-24",
+              "path": "/eliza/community/Streams/11-2024/2024-11-24",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-26",
+              "path": "/eliza/community/Streams/11-2024/2024-11-26",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-28",
+              "path": "/eliza/community/Streams/11-2024/2024-11-28",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "Streams/11-2024/2024-11-29",
+              "path": "/eliza/community/Streams/11-2024/2024-11-29",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/eliza/community/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "api": {
+      "path": "/eliza/api",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/eliza/api",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "classes/AgentRuntime",
+              "path": "/eliza/api/classes/AgentRuntime",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "classes/CacheManager",
+              "path": "/eliza/api/classes/CacheManager",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "classes/DatabaseAdapter",
+              "path": "/eliza/api/classes/DatabaseAdapter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "classes/DbCacheAdapter",
+              "path": "/eliza/api/classes/DbCacheAdapter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "classes/FsCacheAdapter",
+              "path": "/eliza/api/classes/FsCacheAdapter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "classes/MemoryCacheAdapter",
+              "path": "/eliza/api/classes/MemoryCacheAdapter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "classes/MemoryManager",
+              "path": "/eliza/api/classes/MemoryManager",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "classes/Service",
+              "path": "/eliza/api/classes/Service",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "enumerations/Clients",
+              "path": "/eliza/api/enumerations/Clients",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "enumerations/GoalStatus",
+              "path": "/eliza/api/enumerations/GoalStatus",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "enumerations/LoggingLevel",
+              "path": "/eliza/api/enumerations/LoggingLevel",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "enumerations/ModelClass",
+              "path": "/eliza/api/enumerations/ModelClass",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "enumerations/ModelProviderName",
+              "path": "/eliza/api/enumerations/ModelProviderName",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "enumerations/ServiceType",
+              "path": "/eliza/api/enumerations/ServiceType",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/addHeader",
+              "path": "/eliza/api/functions/addHeader",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/composeActionExamples",
+              "path": "/eliza/api/functions/composeActionExamples",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/composeContext",
+              "path": "/eliza/api/functions/composeContext",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/configureSettings",
+              "path": "/eliza/api/functions/configureSettings",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/createGoal",
+              "path": "/eliza/api/functions/createGoal",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/createRelationship",
+              "path": "/eliza/api/functions/createRelationship",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/embed",
+              "path": "/eliza/api/functions/embed",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/findNearestEnvFile",
+              "path": "/eliza/api/functions/findNearestEnvFile",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatActionNames",
+              "path": "/eliza/api/functions/formatActionNames",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatActions",
+              "path": "/eliza/api/functions/formatActions",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatActors",
+              "path": "/eliza/api/functions/formatActors",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatEvaluatorExampleDescriptions",
+              "path": "/eliza/api/functions/formatEvaluatorExampleDescriptions",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatEvaluatorExamples",
+              "path": "/eliza/api/functions/formatEvaluatorExamples",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatEvaluatorNames",
+              "path": "/eliza/api/functions/formatEvaluatorNames",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatEvaluators",
+              "path": "/eliza/api/functions/formatEvaluators",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatGoalsAsString",
+              "path": "/eliza/api/functions/formatGoalsAsString",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatMessages",
+              "path": "/eliza/api/functions/formatMessages",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatPosts",
+              "path": "/eliza/api/functions/formatPosts",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatRelationships",
+              "path": "/eliza/api/functions/formatRelationships",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/formatTimestamp",
+              "path": "/eliza/api/functions/formatTimestamp",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateCaption",
+              "path": "/eliza/api/functions/generateCaption",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateImage",
+              "path": "/eliza/api/functions/generateImage",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateMessageResponse",
+              "path": "/eliza/api/functions/generateMessageResponse",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateObject",
+              "path": "/eliza/api/functions/generateObject",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateObjectArray",
+              "path": "/eliza/api/functions/generateObjectArray",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateObjectV2",
+              "path": "/eliza/api/functions/generateObjectV2",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateShouldRespond",
+              "path": "/eliza/api/functions/generateShouldRespond",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateText",
+              "path": "/eliza/api/functions/generateText",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateTextArray",
+              "path": "/eliza/api/functions/generateTextArray",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateTrueOrFalse",
+              "path": "/eliza/api/functions/generateTrueOrFalse",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/generateWebSearch",
+              "path": "/eliza/api/functions/generateWebSearch",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getActorDetails",
+              "path": "/eliza/api/functions/getActorDetails",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getEmbeddingConfig",
+              "path": "/eliza/api/functions/getEmbeddingConfig",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getEmbeddingType",
+              "path": "/eliza/api/functions/getEmbeddingType",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getEmbeddingZeroVector",
+              "path": "/eliza/api/functions/getEmbeddingZeroVector",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getEndpoint",
+              "path": "/eliza/api/functions/getEndpoint",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getEnvVariable",
+              "path": "/eliza/api/functions/getEnvVariable",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getGoals",
+              "path": "/eliza/api/functions/getGoals",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getModel",
+              "path": "/eliza/api/functions/getModel",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getProviders",
+              "path": "/eliza/api/functions/getProviders",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getRelationship",
+              "path": "/eliza/api/functions/getRelationship",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/getRelationships",
+              "path": "/eliza/api/functions/getRelationships",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/handleProvider",
+              "path": "/eliza/api/functions/handleProvider",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/hasEnvVariable",
+              "path": "/eliza/api/functions/hasEnvVariable",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/loadEnvConfig",
+              "path": "/eliza/api/functions/loadEnvConfig",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/parseBooleanFromText",
+              "path": "/eliza/api/functions/parseBooleanFromText",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/parseJsonArrayFromText",
+              "path": "/eliza/api/functions/parseJsonArrayFromText",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/parseJSONObjectFromText",
+              "path": "/eliza/api/functions/parseJSONObjectFromText",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/parseShouldRespondFromText",
+              "path": "/eliza/api/functions/parseShouldRespondFromText",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/splitChunks",
+              "path": "/eliza/api/functions/splitChunks",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/stringToUuid",
+              "path": "/eliza/api/functions/stringToUuid",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/trimTokens",
+              "path": "/eliza/api/functions/trimTokens",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/updateGoal",
+              "path": "/eliza/api/functions/updateGoal",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/validateCharacterConfig",
+              "path": "/eliza/api/functions/validateCharacterConfig",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "functions/validateEnv",
+              "path": "/eliza/api/functions/validateEnv",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/eliza/api/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Account",
+              "path": "/eliza/api/interfaces/Account",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Action",
+              "path": "/eliza/api/interfaces/Action",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/ActionExample",
+              "path": "/eliza/api/interfaces/ActionExample",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Actor",
+              "path": "/eliza/api/interfaces/Actor",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Content",
+              "path": "/eliza/api/interfaces/Content",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/ConversationExample",
+              "path": "/eliza/api/interfaces/ConversationExample",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/EvaluationExample",
+              "path": "/eliza/api/interfaces/EvaluationExample",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Evaluator",
+              "path": "/eliza/api/interfaces/Evaluator",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/GenerationOptions",
+              "path": "/eliza/api/interfaces/GenerationOptions",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Goal",
+              "path": "/eliza/api/interfaces/Goal",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/IAgentRuntime",
+              "path": "/eliza/api/interfaces/IAgentRuntime",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/IBrowserService",
+              "path": "/eliza/api/interfaces/IBrowserService",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/ICacheAdapter",
+              "path": "/eliza/api/interfaces/ICacheAdapter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/ICacheManager",
+              "path": "/eliza/api/interfaces/ICacheManager",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/IDatabaseAdapter",
+              "path": "/eliza/api/interfaces/IDatabaseAdapter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/IDatabaseCacheAdapter",
+              "path": "/eliza/api/interfaces/IDatabaseCacheAdapter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/IImageDescriptionService",
+              "path": "/eliza/api/interfaces/IImageDescriptionService",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/IMemoryManager",
+              "path": "/eliza/api/interfaces/IMemoryManager",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/IPdfService",
+              "path": "/eliza/api/interfaces/IPdfService",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/ISpeechService",
+              "path": "/eliza/api/interfaces/ISpeechService",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/ITextGenerationService",
+              "path": "/eliza/api/interfaces/ITextGenerationService",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/ITranscriptionService",
+              "path": "/eliza/api/interfaces/ITranscriptionService",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/IVideoService",
+              "path": "/eliza/api/interfaces/IVideoService",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Memory",
+              "path": "/eliza/api/interfaces/Memory",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/MessageExample",
+              "path": "/eliza/api/interfaces/MessageExample",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Objective",
+              "path": "/eliza/api/interfaces/Objective",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Participant",
+              "path": "/eliza/api/interfaces/Participant",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Provider",
+              "path": "/eliza/api/interfaces/Provider",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Relationship",
+              "path": "/eliza/api/interfaces/Relationship",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/Room",
+              "path": "/eliza/api/interfaces/Room",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "interfaces/State",
+              "path": "/eliza/api/interfaces/State",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/CacheOptions",
+              "path": "/eliza/api/type-aliases/CacheOptions",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/Character",
+              "path": "/eliza/api/type-aliases/Character",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/CharacterConfig",
+              "path": "/eliza/api/type-aliases/CharacterConfig",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/Client",
+              "path": "/eliza/api/type-aliases/Client",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/EnvConfig",
+              "path": "/eliza/api/type-aliases/EnvConfig",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/Handler",
+              "path": "/eliza/api/type-aliases/Handler",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/HandlerCallback",
+              "path": "/eliza/api/type-aliases/HandlerCallback",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/KnowledgeItem",
+              "path": "/eliza/api/type-aliases/KnowledgeItem",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/Media",
+              "path": "/eliza/api/type-aliases/Media",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/Model",
+              "path": "/eliza/api/type-aliases/Model",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/Models",
+              "path": "/eliza/api/type-aliases/Models",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/Plugin",
+              "path": "/eliza/api/type-aliases/Plugin",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/SearchResponse",
+              "path": "/eliza/api/type-aliases/SearchResponse",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/SearchResult",
+              "path": "/eliza/api/type-aliases/SearchResult",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/UUID",
+              "path": "/eliza/api/type-aliases/UUID",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "type-aliases/Validator",
+              "path": "/eliza/api/type-aliases/Validator",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/booleanFooter",
+              "path": "/eliza/api/variables/booleanFooter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/CharacterSchema",
+              "path": "/eliza/api/variables/CharacterSchema",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/defaultCharacter",
+              "path": "/eliza/api/variables/defaultCharacter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/elizaLogger",
+              "path": "/eliza/api/variables/elizaLogger",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/envSchema",
+              "path": "/eliza/api/variables/envSchema",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/evaluationTemplate",
+              "path": "/eliza/api/variables/evaluationTemplate",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/knowledge",
+              "path": "/eliza/api/variables/knowledge",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/messageCompletionFooter",
+              "path": "/eliza/api/variables/messageCompletionFooter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/models",
+              "path": "/eliza/api/variables/models",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/settings",
+              "path": "/eliza/api/variables/settings",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/shouldRespondFooter",
+              "path": "/eliza/api/variables/shouldRespondFooter",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "variables/stringArrayFooter",
+              "path": "/eliza/api/variables/stringArrayFooter",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/eliza/api/classes/AgentRuntime",
+                "label": "classes/AgentRuntime"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "docusaurus-lunr-search": {
+    "default": {
+      "fileNames": {
+        "searchDoc": "search-doc-1733727914404.json",
+        "lunrIndex": "lunr-index-1733727914404.json"
+      }
+    }
+  }
+}

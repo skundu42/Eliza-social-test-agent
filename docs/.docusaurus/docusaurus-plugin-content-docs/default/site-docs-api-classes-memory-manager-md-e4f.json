@@ -1,0 +1,15 @@
+{
+  "id": "api/classes/MemoryManager",
+  "title": "Class: MemoryManager",
+  "description": "Manage memories in the database.",
+  "source": "@site/docs/api/classes/MemoryManager.md",
+  "sourceDirName": "api/classes",
+  "slug": "/api/classes/MemoryManager",
+  "permalink": "/eliza/docs/api/classes/MemoryManager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/classes/MemoryManager.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

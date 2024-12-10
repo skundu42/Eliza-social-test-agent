@@ -1,0 +1,15 @@
+{
+  "id": "packages/database-adapters",
+  "title": "🔧 Database Adapters",
+  "description": "Overview",
+  "source": "@site/docs/packages/database-adapters.md",
+  "sourceDirName": "packages",
+  "slug": "/packages/database-adapters",
+  "permalink": "/eliza/docs/packages/database-adapters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/packages/database-adapters.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

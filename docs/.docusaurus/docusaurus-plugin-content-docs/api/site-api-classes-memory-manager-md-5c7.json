@@ -1,0 +1,23 @@
+{
+  "id": "classes/MemoryManager",
+  "title": "MemoryManager",
+  "description": "@ai16z/eliza v0.1.5-alpha.3 / MemoryManager",
+  "source": "@site/api/classes/MemoryManager.md",
+  "sourceDirName": "classes",
+  "slug": "/classes/MemoryManager",
+  "permalink": "/eliza/api/classes/MemoryManager",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "MemoryCacheAdapter",
+    "permalink": "/eliza/api/classes/MemoryCacheAdapter"
+  },
+  "next": {
+    "title": "Service",
+    "permalink": "/eliza/api/classes/Service"
+  }
+}

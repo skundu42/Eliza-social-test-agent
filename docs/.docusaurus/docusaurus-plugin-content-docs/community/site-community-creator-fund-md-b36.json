@@ -1,0 +1,27 @@
+{
+  "id": "creator-fund",
+  "title": "Creator Fund",
+  "description": "The ai16z Creator Fund is an initiative designed to support and empower developers, creators, and community members who are building the future of autonomous AI agents.",
+  "source": "@site/community/creator-fund.md",
+  "sourceDirName": ".",
+  "slug": "/creator-fund",
+  "permalink": "/eliza/community/creator-fund",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Creator Fund"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Daily Summary",
+    "permalink": "/eliza/community/"
+  },
+  "next": {
+    "title": "GitHub Contributors",
+    "permalink": "/eliza/community/profiles"
+  }
+}

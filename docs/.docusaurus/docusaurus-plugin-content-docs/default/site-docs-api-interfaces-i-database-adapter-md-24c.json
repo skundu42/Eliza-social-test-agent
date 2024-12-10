@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/IDatabaseAdapter",
+  "title": "Interface: IDatabaseAdapter",
+  "description": "Properties",
+  "source": "@site/docs/api/interfaces/IDatabaseAdapter.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/IDatabaseAdapter",
+  "permalink": "/eliza/docs/api/interfaces/IDatabaseAdapter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/IDatabaseAdapter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

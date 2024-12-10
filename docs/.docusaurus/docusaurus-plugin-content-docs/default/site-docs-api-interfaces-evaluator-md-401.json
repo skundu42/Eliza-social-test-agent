@@ -1,0 +1,15 @@
+{
+  "id": "api/interfaces/Evaluator",
+  "title": "Interface: Evaluator",
+  "description": "Represents an evaluator, which is used to assess and guide the agent's responses based on the current context and state.",
+  "source": "@site/docs/api/interfaces/Evaluator.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/Evaluator",
+  "permalink": "/eliza/docs/api/interfaces/Evaluator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai16z/eliza/tree/main/docs/docs/api/interfaces/Evaluator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
